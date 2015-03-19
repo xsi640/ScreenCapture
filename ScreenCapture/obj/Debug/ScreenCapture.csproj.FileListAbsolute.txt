@@ -1,0 +1,8 @@
+D:\new_svn_workcopy\trunk\ScreenCapture\bin\Debug\ScreenCapture.dll
+D:\new_svn_workcopy\trunk\ScreenCapture\bin\Debug\ScreenCapture.pdb
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.csprojResolveAssemblyReference.cache
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.FrmCapture.resources
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.Properties.Resources.resources
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.csproj.GenerateResource.Cache
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.dll
+D:\new_svn_workcopy\trunk\ScreenCapture\obj\Debug\ScreenCapture.pdb

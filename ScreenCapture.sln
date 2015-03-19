@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCapture", "ScreenCapture\ScreenCapture.csproj", "{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		太保|Any CPU = 太保|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.太保|Any CPU.ActiveCfg = 太保|Any CPU
+		{76B9EE1E-1CF2-4322-8F23-8F6FD52C7A0B}.太保|Any CPU.Build.0 = 太保|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
